@@ -1,2 +1,2 @@
-# practice
-A place for some practice projects to work on my skills
+# Practice Projects
+This is just a repository for me to put in some projects to work on my programming skills
