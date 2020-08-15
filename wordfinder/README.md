@@ -1,5 +1,5 @@
 # Anagram Finder
-#####15-08-2020
+##### 15-08-2020
 Program that lets you input letters and returns all the possible 
 words that you can form with those letters
 
