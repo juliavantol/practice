@@ -4,7 +4,7 @@ Program that lets you input letters and returns all the possible
 words that you can form with those letters
 
 ## Files
-* wordfinder.py: gets the letters from the input and loads all the words from the text file and 
+* anagrams.py: gets the letters from the input and loads all the words from the text file and 
 returns the words that have the same length as the input. Then it looks through that list
 for words that have the exact same set of letters as the input
 * words_alpha.txt: contains the words in the English dictionary, source mentioned below
