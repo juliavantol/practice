@@ -1,2 +1,5 @@
 .DS_Store
 .gitignore
+dutch_dict.txt
+english_dict.txt
+words_alpha.txt
